@@ -9,7 +9,7 @@ class Main2 {
     
  if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
    {
-     System.out.println("Alperbet");
+     System.out.println("Alphabet");
    }
    else
    {
