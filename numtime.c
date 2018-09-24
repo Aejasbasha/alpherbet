@@ -5,6 +5,6 @@ int k,i;
 scanf("%d",&k);
 for(i=0;i<=k;i++)
 {
-printf("\nHello");
+printf(" \n Hello");
 }
 }
